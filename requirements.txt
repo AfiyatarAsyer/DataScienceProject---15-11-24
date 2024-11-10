@@ -4,4 +4,5 @@ matplotlib==3.9.2
 seaborn==0.12.2
 scikit-learn==1.5.2
 streamlit==1.23.1
-pip==24.1.1
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip
