@@ -1,8 +1,8 @@
-numpy==1.23.5
+numpy==1.23.5 --only-binary :all:
 pandas==1.5.3
-matplotlib
-seaborn
-scikit-learn
+matplotlib==3.6.2
+seaborn==0.12.2
+scikit-learn==1.2.2 --only-binary :all:
 streamlit==1.23.1
-kagglehub
-pip==22.2.2
+kagglehub==0.1.2  # Verify this version or replace if unnecessary
+pip==24.3.2
