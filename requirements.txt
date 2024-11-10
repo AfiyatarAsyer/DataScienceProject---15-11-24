@@ -2,7 +2,7 @@ numpy==2.1.3 --only-binary :all:
 pandas==2.2.3
 matplotlib==3.9.2
 seaborn==0.12.2
-scikit-learn==1.2.2 --only-binary :all:
+scikit-learn==1.5.2 --only-binary :all:
 streamlit==1.23.1
 kagglehub==0.1.2  # Verify this version or replace if unnecessary
 pip==24.3.2
